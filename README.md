@@ -1,7 +1,8 @@
 ### 许立子/Lizio
 
 - 👯 I graduated from Sun Yat-Sen University in Jun 2018, and major in Software Engineering
-- 🔭 I’m currently working on NetEase Game
+- 🔭 I'm currently working on NetEase Game
+- 🤔 I'm a mobile game developer
 - 📫 How to reach me: lizi_xu@foxmail.com
 
 
